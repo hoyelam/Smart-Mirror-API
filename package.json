@@ -1,0 +1,22 @@
+{
+  "name": "Smart-Mirror-API",
+  "version": "0.0.0",
+  "description": "Tech Two Backend database/api for data",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoyelam/Smart-Mirror-API.git"
+  },
+  "author": "Hoye Lam, Tjarda Voorn, Rinesh Ramadhin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoyelam/Smart-Mirror-API/issues"
+  }
+}
